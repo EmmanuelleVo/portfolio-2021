@@ -18,7 +18,7 @@ Mon site est composé de 2 pages :
 
 ## Concept su site :
 
-Mon concept est basé sur un style moderne : minimalisme, layout aéré, scroll reveal, (supersposition d'éléments)
+Mon concept est basé sur un style moderne : minimalisme, layout aéré, scroll reveal
 
 Sur la page d'accueil : 
 - Il y aura un scroll affichant les sections
