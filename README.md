@@ -1,7 +1,7 @@
-## portfolio-2021
+# portfolio-2021
 
 
-# Plan du site :
+## Plan du site :
 
 Mon site est composé de 2 pages :
 - Accueil = landing page 
@@ -16,7 +16,7 @@ Mon site est composé de 2 pages :
   - Liste des langages/technologies utilisés
 
 
-# Concept su site :
+## Concept su site :
 
 Mon concept est basé sur un style moderne : minimalisme, layout aéré, scroll reveal, (supersposition d'éléments)
 
@@ -31,6 +31,6 @@ Sur la page des projets :
 
 
 
-  # Moodboard 
-  https://projects.invisionapp.com/boards/5T41P0NSCED/
+## Moodboard 
+https://projects.invisionapp.com/boards/5T41P0NSCED/
 
