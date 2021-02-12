@@ -16,7 +16,7 @@ Mon site est composé de 2 pages :
   - Liste des langages/technologies utilisés
 
 
-## Concept su site :
+## Concept du site :
 
 Mon concept est basé sur un style moderne : minimalisme, layout aéré, scroll reveal
 
@@ -24,6 +24,7 @@ Sur la page d'accueil :
 - Il y aura un scroll affichant les sections
 - Pour chaque section, le background-color sera de couleur différente (ou bien on alterne les couleurs)
 - Le logo se transformera en flèche lorsqu'on scroll vers le bas, et au clique l'utilisateur pourra remonter tout en haut de la page
+- Pour les projets : effet de parallaxe pour l'image des projets
 
 Sur la page des projets :
 - Il y aura un scroll affichant les différents projets
