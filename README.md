@@ -20,6 +20,8 @@ Mon site est composé de 2 pages :
 
 Mon concept est basé sur un style moderne : minimalisme, layout aéré, scroll reveal
 
+J'utilise principalement la couleur bleue pastel
+
 Sur la page d'accueil : 
 - Il y aura un scroll affichant les sections
 - Pour chaque section, le background-color sera de couleur différente (ou bien on alterne les couleurs)
