@@ -1,6 +1,6 @@
 ## portfolio-2021
 
-Mon concept est basé sur un style moderne : minimalisme, layout aéré, scroll reveal, supersposition d'éléments
+Mon concept est basé sur un style moderne : minimalisme, layout aéré, scroll reveal, (supersposition d'éléments)
 
 Couleur principale : bleu
 
