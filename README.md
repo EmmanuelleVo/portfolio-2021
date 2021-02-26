@@ -38,4 +38,12 @@ Sur la page des projets :
 [Milanotes](https://app.milanote.com/1Ld18e1eatdvwF?p=WAG0MrIihV0)
 
 
+## Stratégie
+
+Lorsque l’utilisateur(ici, l'employeur) arrive sur ma landing page (= accueil), il saura qui je suis, ainsi que mon job (web designer).\
+A gauche de l’écran, il y a un scroll contenant les différentes sections : accueil, mes projets, à propos et contact.\
+Le but premier de l’utilisateur est d’évaluer mes compétences via mes projets. Par conséquent, il va scroll à ‘mes projets’ et verra un slider avec mes projets (image + titre) les plus récents ainsi qu’un CTA ‘voir tous mes projets’. Soit il clique sur le CTA et arrive sur ma page ‘Mes projets’ et ensuite clique sur un des projets ou bien il clique directement sur un des projets du slider pour arriver à la page du projet en question, ou il utilise le mien ‘mes projets’ du nav.\
+Sur cette page, il pourra y découvrir mon projet, en quoi consiste le projet, une description du projet, les technologies utilisées, un lien vers le site, ainsi que des photos du projet. Bien sûr, il y a un CTA pour voir le projet suivant.\
+S’il veut me connaitre d’avantage, il peut naviguer avec le nav (accueil, mes projets, à propos, contact) qui le dirigera vers la première page /à propos. Sur cette section, il y a une photo de moi, ainsi que ma description.\
+Et enfin, s’il est intéressé, il peut me contacter en scrollant ou en utilisant le nav, montrant mes coordonnées et un formulaire à compléter (nom, adresse mail, message). De plus, il y a aussi un footer, contenant les logos GitHub, LinkedIn et mes coordonnées.
 
