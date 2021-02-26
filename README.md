@@ -18,10 +18,8 @@ Mon site est composé de 2 pages :
 
 ## Concept du site :
 
-Mon concept est basé sur un style moderne : minimalisme, layout aéré, scroll reveal.
-
-La couleur utilisée sera le bleu pastel.
-
+Mon concept est basé sur un style moderne : minimalisme, layout aéré, scroll reveal.\
+La couleur utilisée sera le bleu pastel.\
 À gauche de chaque page, il y aura un scroll contenant les sections/projets avec lequel l'utilisateur pourra naviguer avec.
 
 Sur la page d'accueil : 
@@ -37,5 +35,7 @@ Sur la page des projets :
 
 
 ## Moodboard 
-https://app.milanote.com/1Ld18e1eatdvwF?p=WAG0MrIihV0
+[Milanotes](https://app.milanote.com/1Ld18e1eatdvwF?p=WAG0MrIihV0)
+
+
 
