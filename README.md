@@ -1,15 +1,18 @@
 # portfolio-2021
 
+# Présentation du projet
+
+Réalisation de mon portfolio
 
 ## Plan du site :
 
 Mon site est composé de 2 pages :
-- Accueil = landing page 
+1) **Accueil** = landing page 
   - Avec un scroll reveal des autres sections
     - Mes projets (liste de mes projets : photos + titre du projet + CTA)
     - About me (ma description + photo)
     - Contact (formulaire)
-- Mes projets : (par ordre chronologique)
+2) **Mes projets** : (par ordre chronologique)
   - Photo(s)
   - Nom
   - Description (ce qu'est le projet, les objectifs,...)
