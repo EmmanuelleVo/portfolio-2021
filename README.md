@@ -40,8 +40,8 @@ Sur la page des projets :
 
 ## Stratégie
 
-Lorsque l’utilisateur(ici, l'employeur) arrive sur ma landing page (= accueil), il saura qui je suis, ainsi que mon job (web designer).\
-A gauche de l’écran, il y a un scroll contenant les différentes sections : accueil, mes projets, à propos et contact.\
+Lorsque l’utilisateur(ici, l'employeur) arrive sur la landing page (= accueil), il saura qui je suis, ainsi que mon job (web designer).\
+À gauche de l’écran, il y a un scroll contenant les différentes sections : accueil, mes projets, à propos et contact.\
 Le but premier de l’utilisateur est d’évaluer mes compétences via mes projets. Par conséquent, il va scroll à ‘mes projets’ et verra un slider avec mes projets (image + titre) les plus récents ainsi qu’un CTA ‘voir tous mes projets’. Soit il clique sur le CTA et arrive sur ma page ‘Mes projets’ et ensuite clique sur un des projets ou bien il clique directement sur un des projets du slider pour arriver à la page du projet en question, ou il utilise le mien ‘mes projets’ du nav.\
 Sur cette page, il pourra y découvrir mon projet, en quoi consiste le projet, une description du projet, les technologies utilisées, un lien vers le site, ainsi que des photos du projet. Bien sûr, il y a un CTA pour voir le projet suivant.\
 S’il veut me connaitre d’avantage, il peut naviguer avec le nav (accueil, mes projets, à propos, contact) qui le dirigera vers la première page /à propos. Sur cette section, il y a une photo de moi, ainsi que ma description.\
