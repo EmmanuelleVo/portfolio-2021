@@ -8,16 +8,42 @@ Réalisation de mon portfolio
 
 Mon site est composé de 2 pages :
 1) **Accueil** = landing page 
-  - Avec un scroll reveal des autres sections
-    - Mes projets (liste de mes projets : photos + titre du projet + CTA)
-    - About me (ma description + photo)
-    - Contact (formulaire)
+  - Menu nav : Logo?, Accueil, Mes projets, À propos et Contact
+  - À gauche de l’écran, il y a un scroll contenant les différentes sections : Accueil, Mes projets, À propos et Contact.
+  - Avec un scroll reveal des 3 autres sections :
+    - Section Mes projets (La section est avant About me et Contact vu que le but premier de l’utilisateur est d’évaluer mes compétences via mes projets.
+      - Slider de mes projets :
+        - Photo
+        - Titre du projet
+        - CTA 'voir tous mes projets'
+    - Section About me 
+      - Ma description
+      - Photo
+    - Section Contact
+      - Mes coordonées (mon addresse mail)
+      - Formulaire
+        - Nom
+        - Prénom
+        - Adresse mail
+        - Message
+        - CTA 'envoyer'
+  - Footer 
+    - Mes coordonnées
+    - Logo GitHub,...
 2) **Mes projets** : (par ordre chronologique)
+  - Il y aura un scroll affichant les différents projets, du même type que celui à l'Accueil
+  - Liste de mes projets 
+    - Photo
+    - Titre
+    - Petite ou début de description
+    - CTA 'Voir le projet'
+3) **Page projet** :
   - Photo(s)
-  - Nom
+  - Titre
   - Description (ce qu'est le projet, les objectifs,...)
   - Liste des langages/technologies utilisés
-
+  - Lien vers le site
+  - CTA pour voir le projet suivant
 
 ## Concept du site :
 
@@ -40,13 +66,4 @@ Sur la page des projets :
 ## Moodboard 
 [Milanotes](https://app.milanote.com/1Ld18e1eatdvwF?p=WAG0MrIihV0)
 
-
-## Stratégie
-
-Lorsque l’utilisateur(ici, l'employeur) arrive sur la landing page (= accueil), il saura qui je suis, ainsi que mon job (web designer).\
-À gauche de l’écran, il y a un scroll contenant les différentes sections : accueil, mes projets, à propos et contact.\
-Le but premier de l’utilisateur est d’évaluer mes compétences via mes projets. Par conséquent, il va scroll à ‘mes projets’ et verra un slider avec mes projets (image + titre) les plus récents ainsi qu’un CTA ‘voir tous mes projets’. Soit il clique sur le CTA et arrive sur ma page ‘Mes projets’ et ensuite clique sur un des projets ou bien il clique directement sur un des projets du slider pour arriver à la page du projet en question, ou il utilise le mien ‘mes projets’ du nav.\
-Sur cette page, il pourra y découvrir mon projet, en quoi consiste le projet, une description du projet, les technologies utilisées, un lien vers le site, ainsi que des photos du projet. Bien sûr, il y a un CTA pour voir le projet suivant.\
-S’il veut me connaitre d’avantage, il peut naviguer avec le nav (accueil, mes projets, à propos, contact) qui le dirigera vers la première page /à propos. Sur cette section, il y a une photo de moi, ainsi que ma description.\
-Et enfin, s’il est intéressé, il peut me contacter en scrollant ou en utilisant le nav, montrant mes coordonnées et un formulaire à compléter (nom, adresse mail, message). De plus, il y a aussi un footer, contenant les logos GitHub, LinkedIn et mes coordonnées.
 
