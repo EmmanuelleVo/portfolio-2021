@@ -8,19 +8,19 @@ Réalisation de mon portfolio
 
 Mon site est composé de 2 pages :
 1) **Accueil** = landing page 
-  - Menu nav : Logo, Accueil, Mes projets, À propos et Contact
+  - Menu nav : Logo(cliquable redirigeant vers la page d'accueil), Accueil, Mes projets, À propos et Contact
   - À gauche de l’écran, il y a un scroll contenant les différentes sections : Accueil, Mes projets, À propos et Contact. (comme ça l'utilisateur sait le layout de la page)
   - Avec un scroll reveal des 3 autres sections :
-    - Section Mes projets (La section est avant About me et Contact vu que le but premier de l’utilisateur est d’évaluer mes compétences via mes projets.
+    - Section Mes projets (La section est avant About me et Contact vu que le but premier de l’utilisateur est d’évaluer mes compétences via mes projets)
       - Slider de mes projets :
-        - Photo
-        - Titre du projet
+        - Photo du projet
+        - Titre du projet cliquable redirigeant vers la page projet
         - CTA 'voir tous mes projets'
     - Section About me 
       - Ma description
       - Photo
     - Section Contact
-      - Mes coordonées (mon addresse mail)
+      - Mes coordonnées (mon addresse mail)
       - Formulaire
         - Nom
         - Prénom
@@ -30,10 +30,11 @@ Mon site est composé de 2 pages :
   - Footer 
     - Mes coordonnées
     - Logo GitHub,...
-    - Un lien vers Contact (si l'utilisateur est dans la page projet et il est intéressé, il peut me contacter soit avec le nav ou le footer)
+    - Un lien vers Contact (si l'utilisateur est dans la page projet et il est intéressé, il peut aller vers la section contact soit avec le nav ou le footer)
 2) **Mes projets** : (par ordre chronologique)
   - Il y aura un scroll affichant les différents projets, du même type que celui à l'Accueil
-  - Projet :
+    - !! Ce scroll deviendra plus une liste de liens des projets seulement affichable via le bouton menu, en version smartphone
+  - Projet : 
     - Photo(s)
     - Titre
     - Description (ce qu'est le projet, les objectifs,...)
