@@ -46,6 +46,7 @@ Mon site est composé de 2 pages :
 
 Mon concept est basé sur un style moderne : minimalisme, layout aéré, scroll reveal.\
 La couleur utilisée sera le bleu pastel.\
+J'utilise des formes géométriques ensemble : le rond et le carré (une image et son texte)
 À gauche de chaque page, il y aura un scroll contenant les sections/projets avec lequel l'utilisateur pourra naviguer avec.
 Sur mobile, le scroll ne sera pas affiché. Pour la page des projets, l'utilisateur doit cliquer sur une icône pour afficher la liste des projets, ou bien il doit cliquer sur le CTA 'voir tous les projets' dans la section projets de la page d'accueil.
 
